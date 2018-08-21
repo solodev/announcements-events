@@ -1,5 +1,7 @@
 # announcements-events
+Keep your website visitors update on everything going on with your organization through these sleek and streamlined announcement and events sections.
 
+Regardless of if you're a non-profit organization or a business looking to grow, your website should offer the most recent information possible about your organization. There are few things more frustrating for a website visitor looking to learn more about an organization only to discover that the information was last updated in 2014, 2008 or worse yet - never! 
 
 
 ## Tutorial		  
